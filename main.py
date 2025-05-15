@@ -2,7 +2,7 @@ import streamlit as st
 
 # --- PAGE SETUP ---
 main_page = st.Page(
-    page="pages/main.py",
+    page="pages/maininfo.py",
     title="красИИвее",
     icon=":material/home:",
     default=True
@@ -17,7 +17,7 @@ about_page = st.Page(
 page = st.Page(
     page="pages/4th.py",
     title="иср",
-    icon=":material/account_circle:",
+    icon=":material/loyalty:"
 )
 
 tables_page = st.Page(

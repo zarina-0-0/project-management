@@ -61,5 +61,5 @@ with st.container(height=500):
 
 _1,_2,_3 = st.columns([1.85,2,0.9])
 _3.link_button("contact us", "https://mail.google.com/mail/u/0/?pli=1#inbox",icon=":material/mail:")
-_2.link_button("explore brands", "https://ultratrade.ru/products/ymnoe-zerkalo-s-sensornum-ekranom-yousmart-rectangular-smart-touch-screen-mirror-600x1600mm-3100-60160-u-/?srsltid=AfmBOoraDUNNU7Bi0vAQdYxh5EB4CjhYR8DXO6Kqng0kXI4vLR6h4tgS",icon=":material/shopping_cart:")
+_2.link_button("explore brands", "",icon=":material/shopping_cart:")
 _1.link_button("try", "",icon=":material/loyalty:")
